@@ -1,2 +1,2 @@
-[![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)][1]
+[![GitHub Views](https://grabify.link/0R9L12)][1]
 Tested
